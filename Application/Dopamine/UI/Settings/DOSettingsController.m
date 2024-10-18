@@ -126,6 +126,10 @@
     @6,
     @7,
     @8,
+    @9,
+    @10,
+    @11,
+    @12,
     ];
 }
 
@@ -139,8 +143,13 @@
         [NSString stringWithFormat:@"3x (%@)", DOLocalizedString(@"Recommended")],
         @"3.5x",
         @"4x",
+        @"5x",
+        @"6x",
+        @"7x",
+        @"8x",
     ];
 }
+
 
 - (id)specifiers
 {
